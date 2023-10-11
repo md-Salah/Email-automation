@@ -19,5 +19,5 @@ Emailer is a meticulously crafted Python-based tool engineered to optimize email
 ## How to setup
 Visit [here](https://docs.google.com/document/d/1PPFGif4xk3vEUmrO4osUGUqnr2n-NOcok9t70wTUTrk/edit) to get the full user guide step-by-step
 ## Contact
-Feel free to contact us at our [mail](emailercontact@gmail.com) for any kind of support & queries.
+Feel free to contact us at emailercontact@gmail.com for any kind of support & queries.
 
