@@ -17,5 +17,7 @@ Emailer is a meticulously crafted Python-based tool engineered to optimize email
 - Send email using company/organization email as well.
 - Initial setup support and regular support are available.
 ## How to setup
-Visit the link to get the full user guide step by step
-https://docs.google.com/document/d/1PPFGif4xk3vEUmrO4osUGUqnr2n-NOcok9t70wTUTrk/edit
+Visit [here](https://docs.google.com/document/d/1PPFGif4xk3vEUmrO4osUGUqnr2n-NOcok9t70wTUTrk/edit) to get the full user guide step-by-step
+## Contact
+Feel free to contact us at our [mail](emailercontact@gmail.com) for any kind of support & queries.
+
