@@ -1,5 +1,6 @@
 # Emailer
-Emailer - An Email automation software
+![Emailer](assets/Emailer.jpeg)
+## Emailer - An Email automation software
 Emailer is a meticulously crafted Python-based tool engineered to optimize email outreach and communication strategies. Its primary objective is to facilitate the efficient dissemination of emails to a broad audience, whether through established platforms like Gmail and Outlook or custom-tailored email services.
 ## Use Cases:
 - Email marketing: Promote products, services, or events to a wide audience.
