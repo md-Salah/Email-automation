@@ -1,0 +1,4 @@
+name,email,password,host,port,daily_limit
+Company Name,youremail1@gmail.com,gmail app password,,,500
+Company Name,youremail2@outlook.com,yourpassword,,,500
+Company Name,customEmail@yourcomapny.com,password,your host,465,50000
